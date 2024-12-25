@@ -1,0 +1,311 @@
+Per-PID Stats:
+  PID 0 wake time: +1s741ms
+  PID 1554 wake time: +17s378ms
+  PID 1554 wake time: +35ms
+  PID 2142 wake time: +29m17s39ms
+  PID 0 wake time: +57s415ms
+  PID 1554 wake time: +14ms
+  PID 2529 wake time: +41ms
+  PID 2422 wake time: +2s896ms
+  PID 1554 wake time: +180ms
+  PID 2607 wake time: +182ms
+  PID 2506 wake time: +5s100ms
+  PID 1554 wake time: +7ms
+  PID 2488 wake time: +128ms
+
+Statistics since last charge:
+  System starts: 1, currently on battery: false
+  Time on battery: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Time on battery screen off: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Total run time: 29m 27s 956ms realtime, 29m 27s 956ms uptime
+  Start clock time: 2024-12-22-01-03-54
+  Screen on: 0ms (--%) 1x, Interactive: 0ms (--%)
+  Screen brightnesses: (no activity)
+  Connectivity changes: 1
+  Mobile total received: 0B, sent: 0B (packets received 0, sent 0)
+  Phone signal levels: (no activity)
+  Signal scanning time: 0ms
+  Radio types: (no activity)
+  Mobile radio active time: 0ms (--%) 0x
+  Wi-Fi total received: 0B, sent: 0B (packets received 0, sent 0)
+  Wifi on: 0ms (--%), Wifi running: 0ms (--%)
+  Wifi states: (no activity)
+  Wifi supplicant states: (no activity)
+  Wifi signal levels: (no activity)
+  Bluetooth on: 0ms (--%)
+  Bluetooth states: (no activity)
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+
+  All wakeup reasons:
+  Wakeup reason unknown realtime
+
+  1000:
+    Wake lock SyncLoopWakeLock realtime
+    Wake lock ActivityManager-Launch realtime
+    Wake lock NextAlarmTracker realtime
+    Wake lock GpsLocationProvider realtime
+    Wake lock AudioMix realtime
+    Wake lock *alarm* realtime
+    Wake lock WiredAccessoryManager realtime
+    Sensor 0: (not used)
+    Apk android:
+      Service android.hardware.location.GeofenceHardwareService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.android.internal.backup.LocalTransportService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+    Apk com.android.server.telecom:
+      Service com.android.server.telecom.TelecomService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+    Apk com.android.keychain:
+      (nothing executed)
+    Apk com.android.location.fused:
+      Service com.android.location.fused.FusedLocationService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  1001:
+    Wake lock CellBroadcastHandler realtime
+    Wake lock GsmInboundSmsHandler realtime
+    Wake lock ProxyController realtime
+    Wake lock CdmaServiceCategoryProgramHandler realtime
+    Wake lock GsmCellBroadcastHandler realtime
+    Wake lock RILJ realtime
+    Wake lock CdmaInboundSmsHandler realtime
+    Wake lock CallerInfoCache realtime
+    Wake lock ServiceStateTracker realtime
+    Wake lock *alarm* realtime
+    Apk com.android.phone:
+      Service com.android.phone.TelephonyDebugService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+  1013:
+    Wake lock AudioMix realtime
+  u0a1:
+    Wake lock ScheduleNextAlarmWakeLock realtime
+    Wake lock CalendarReceiver_Provider realtime
+    Wake lock *alarm* realtime
+    Apk com.android.providers.calendar:
+      (nothing executed)
+  u0a2:
+    (nothing executed)
+  u0a3:
+    Apk com.android.defcontainer:
+      (nothing executed)
+  u0a4:
+    Apk com.android.dialer:
+      (nothing executed)
+  u0a5:
+    Wake lock MediaScannerService realtime
+    Apk com.android.providers.media:
+      (nothing executed)
+    Apk com.android.providers.downloads:
+      (nothing executed)
+  u0a7:
+    Wake lock WindowManager realtime
+    Wake lock *vibrator* realtime
+  u0a8:
+    (nothing executed)
+  u0a9:
+    Wake lock StartingAlertService realtime
+    Apk com.android.mms:
+      (nothing executed)
+  u0a12:
+    Apk com.android.systemui:
+      Service com.android.systemui.keyguard.KeyguardService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.android.systemui.ImageWallpaper:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.android.systemui.SystemUIService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+  u0a17:
+    Wake lock StartingAlertService realtime
+    Apk com.android.calendar:
+      (nothing executed)
+  u0a21:
+    Wake lock AlarmClock realtime
+    Wake lock *alarm* realtime
+  u0a23:
+    (nothing executed)
+  u0a25:
+    Apk com.android.email:
+      (nothing executed)
+  u0a27:
+    Apk com.android.exchange:
+      (nothing executed)
+  u0a30:
+    Apk com.android.inputmethod.latin:
+      Service com.android.inputmethod.latin.LatinIME:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a33:
+    Apk com.android.music:
+      (nothing executed)
+  u0a38:
+    (nothing executed)
+  u0a39:
+    Apk com.android.printspooler:
+      (nothing executed)
+  u0a40:
+    (nothing executed)
+  u0a42:
+    (nothing executed)
+  u0a53:
+    Wake lock WindowManager realtime
+
+Statistics since last unplugged:
+  Time on battery: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Time on battery screen off: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Total run time: 29m 27s 957ms realtime, 29m 27s 957ms uptime
+  Start clock time: 2024-12-22-01-03-54
+  Screen on: 0ms (--%) 1x, Interactive: 0ms (--%)
+  Screen brightnesses: (no activity)
+  Connectivity changes: 1
+  Mobile total received: 0B, sent: 0B (packets received 0, sent 0)
+  Phone signal levels: (no activity)
+  Signal scanning time: 0ms
+  Radio types: (no activity)
+  Mobile radio active time: 0ms (--%) 0x
+  Wi-Fi total received: 0B, sent: 0B (packets received 0, sent 0)
+  Wifi on: 0ms (--%), Wifi running: 0ms (--%)
+  Wifi states: (no activity)
+  Wifi supplicant states: (no activity)
+  Wifi signal levels: (no activity)
+  Bluetooth on: 0ms (--%)
+  Bluetooth states: (no activity)
+
+  Device is currently plugged into power
+    Last discharge cycle start level: 0
+    Last discharge cycle end level: 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+ 
+  All wakeup reasons:
+  Wakeup reason unknown realtime
+
+  1000:
+    Wake lock SyncLoopWakeLock realtime
+    Wake lock ActivityManager-Launch realtime
+    Wake lock NextAlarmTracker realtime
+    Wake lock GpsLocationProvider realtime
+    Wake lock AudioMix realtime
+    Wake lock *alarm* realtime
+    Wake lock WiredAccessoryManager realtime
+    Sensor 0: (not used)
+    Apk android:
+      Service android.hardware.location.GeofenceHardwareService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.android.internal.backup.LocalTransportService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+    Apk com.android.server.telecom:
+      Service com.android.server.telecom.TelecomService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+    Apk com.android.keychain:
+      (nothing executed)
+    Apk com.android.location.fused:
+      Service com.android.location.fused.FusedLocationService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  1001:
+    Wake lock CellBroadcastHandler realtime
+    Wake lock GsmInboundSmsHandler realtime
+    Wake lock ProxyController realtime
+    Wake lock CdmaServiceCategoryProgramHandler realtime
+    Wake lock GsmCellBroadcastHandler realtime
+    Wake lock RILJ realtime
+    Wake lock CdmaInboundSmsHandler realtime
+    Wake lock CallerInfoCache realtime
+    Wake lock ServiceStateTracker realtime
+    Wake lock *alarm* realtime
+    Apk com.android.phone:
+      Service com.android.phone.TelephonyDebugService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+  1013:
+    Wake lock AudioMix realtime
+  u0a1:
+    Wake lock ScheduleNextAlarmWakeLock realtime
+    Wake lock CalendarReceiver_Provider realtime
+    Wake lock *alarm* realtime
+    Apk com.android.providers.calendar:
+      (nothing executed)
+  u0a2:
+    (nothing executed)
+  u0a3:
+    Apk com.android.defcontainer:
+      (nothing executed)
+  u0a4:
+    Apk com.android.dialer:
+      (nothing executed)
+  u0a5:
+    Wake lock MediaScannerService realtime
+    Apk com.android.providers.media:
+      (nothing executed)
+    Apk com.android.providers.downloads:
+      (nothing executed)
+  u0a7:
+    Wake lock WindowManager realtime
+    Wake lock *vibrator* realtime
+  u0a8:
+    (nothing executed)
+  u0a9:
+    Wake lock StartingAlertService realtime
+    Apk com.android.mms:
+      (nothing executed)
+  u0a12:
+    Apk com.android.systemui:
+      Service com.android.systemui.keyguard.KeyguardService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.android.systemui.ImageWallpaper:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+      Service com.android.systemui.SystemUIService:
+        Created for: 0ms uptime
+        Starts: 1, launches: 1
+  u0a17:
+    Wake lock StartingAlertService realtime
+    Apk com.android.calendar:
+      (nothing executed)
+  u0a21:
+    Wake lock AlarmClock realtime
+    Wake lock *alarm* realtime
+  u0a23:
+    (nothing executed)
+  u0a25:
+    Apk com.android.email:
+      (nothing executed)
+  u0a27:
+    Apk com.android.exchange:
+      (nothing executed)
+  u0a30:
+    Apk com.android.inputmethod.latin:
+      Service com.android.inputmethod.latin.LatinIME:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a33:
+    Apk com.android.music:
+      (nothing executed)
+  u0a38:
+    (nothing executed)
+  u0a39:
+    Apk com.android.printspooler:
+      (nothing executed)
+  u0a40:
+    (nothing executed)
+  u0a42:
+    (nothing executed)
+  u0a53:
+    Wake lock WindowManager realtime
